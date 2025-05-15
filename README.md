@@ -5,7 +5,7 @@ Este es un trabajo realizado para la **Universitat Oberta de Catalunya (UOC)**, 
 El objetivo de esta práctica es reflexionar sobre dos ejemplos actuales de hibridación digital utilizando las ideas del autor **Lev Manovich** en su libro *El software toma el mando*. Para ello, he seleccionado los dos siguientes casos: **Snapchat** y **Pokémon GO**.
 
 **Autora:** Alicia Vizcarra  
-**Fecha:** 9 de mayo de 2025
+**Fecha:** 15 de mayo de 2025
 
 ## Planteamiento
 
@@ -65,18 +65,81 @@ En cuanto a la tecnología, Snapchat utiliza varias **técnicas específicas e i
 Así, Snapchat no solo mezcla diferentes medios, sino que los transforma completamente gracias al software, ofreciendo nuevas formas de comunicación y una estética única.
 
 
-### Bibliografía y fuentes
 
-- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
-- Snap Inc. (2017). [Snapchat Lenses – Official Overview](https://youtu.be/K6x44v8prFA) [Video].
-- Inmersys. (2021). [Snapchat, punta de lanza en realidad aumentada](https://blog.inmersys.com/snapchat-punta-de-lanza-en-realidad-aumentada).
-- Childnet. (2023). [Snapchat’s new AI chatbot and its impact on young people](https://www.childnet.com/blog/snapchats-new-ai-chatbot-and-its-impact-on-young-people/).
-- Xataka. (s.f.). [Snap Map: qué es y cómo desactivarlo](https://www.xataka.com/basics/snap-map-que-es-y-como-desactivarlo).
+# Hibridación en Pokémon GO
 
-### Imágenes
+Pokémon GO es una de las experiencias híbridas más influyentes de la era digital. No se limita a combinar formatos como lo haría un producto multimedia, sino que transforma medios y tecnologías a través del software, creando un lenguaje interactivo único. Su impacto fue enorme: convirtió el entorno urbano en un tablero de juego y, en países como España, impulsó la compra de móviles con capacidades de realidad aumentada.
 
-- Snap Inc. (s.f.). [Lenses en Snapchat – Business Help Image](https://businesshelp.snapchat.com/servlet/rtaImage?eid=ka0Uf0000000yk9&feoid=00N0y000004u9iN&refid=0EMUf000001QMYz).
-- Applesencia. (2017). [Snap Map](https://applesencia.com/files/2017/06/Snapchat-lanza-funcion-Snap-Maps-para-compartir-ubicacin.jpg).
-- Shatov, A. (2023). [Snapchat interface](https://www.childnet.com/wp-content/uploads/2023/05/alexander-shatov-fRjjnN_8njo-unsplash-1024x768.jpg).
-- Inmersys. (s.f.). [Imagen del chatbot con IA](https://blog.inmersys.com/hs-fs/hubfs/Snapchat%20apuesta%20por%20la%20inteligencia%20artificial%20con%20el%20lanzamiento%20de%20su%20chatbot%20AI.png?width=1200&height=628&name=Snapchat%20apuesta%20por%20la%20inteligencia%20artificial%20con%20el%20lanzamiento%20de%20su%20chatbot%20AI.png).
+## Más que evolución: una remezcla de medios
+
+Pokémon GO no es solo una evolución de los videojuegos, sino una **remezcla activa de medios**, en el sentido que le da Manovich en *El software toma el mando*: no se trata de una simple suma de formatos, sino de una transformación mediante software, que da lugar a una nueva forma de experiencia mediática. El juego combina cartografía interactiva, sensores de movimiento, cámara, realidad aumentada, conexión a internet y gráficos 3D, todo en tiempo real.
+
+Como afirma Manovich, *“el software se convierte en el medio universal que puede simular todos los medios previos”* (2013). Así, Pokémon GO integra elementos que antes estaban separados: mapas, vídeo, movimiento físico y  narrativa en una plataforma híbrida que trasciende el videojuego clásico.
+
+Tal como recoge un artículo de la Universitat Oberta de Catalunya, el fenómeno fue tan influyente que *“marcó un antes y un después en la relación entre móviles, espacio público y entretenimiento”*, e impulsó la demanda de móviles de gama alta capaces de soportar estas experiencias. Este impacto convirtió a España en un referente temprano en tecnología móvil avanzada.
+
+[![Pokémon GO Trailer](https://img.youtube.com/vi/2sj2iQyBTQs/0.jpg)](https://youtu.be/2sj2iQyBTQs?si=DcklsH1oQwVDT_9_)
+
+## Estrategias de hibridación
+
+El juego aplica varias de las estrategias que Manovich describe en *El software toma el mando*:
+
+- **Superposición visual**: los Pokémon aparecen sobre el mundo real mediante la cámara.
+- **Fusión con datos del entorno**: la ubicación, hora y clima influyen en qué criaturas aparecen.
+- **Simulación de medios**: gimnasios y Poképaradas convierten espacios reales en objetos lúdicos.
+- **Interfaces híbridas**: caminar, usar la cámara y tocar la pantalla forman parte de la interacción.
+- **Representación en tiempo real**: los Pokémon reaccionan a los movimientos físicos del jugador.
+
+## Estética de la hibridación
+
+La estética de Pokémon GO mezcla lo cotidiano y lo fantástico: criaturas virtuales aparecen en calles, parques o salones, y su presencia se siente real gracias al diseño visual y sonoro. Esta fusión sensorial crea un entorno híbrido donde lo digital transforma nuestra percepción del espacio físico.
+
+![Gameplay de Pokémon GO](https://i.cbc.ca/1.3674612.1468295113!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pokemon-go-gameplay.jpg)
+
+## Técnicas específicas del medio
+
+Pokémon GO emplea tecnologías avanzadas como:
+
+- Geolocalización en tiempo real  
+- Reconocimiento espacial  
+- Adaptación a condiciones ambientales  
+- Edición del entorno mediante software  
+
+Todo esto configura una experiencia que ya no puede definirse solo como videojuego o aplicación móvil.
+
+Como concluye el artículo de la UOC, *“el éxito de Pokémon GO evidenció cómo el móvil ya no es solo un canal de comunicación, sino una interfaz con el espacio físico”*. Esta idea resume su alcance como medio híbrido: un punto de encuentro entre cuerpo, entorno y código.
+
+
+
+# Valoración personal
+
+
+Desde mi punto de vista, tanto Snapchat como Pokémon GO son buenos ejemplos de cómo el software ha cambiado la forma en que vivimos lo digital. En lugar de consumir contenido pasivamente, ahora lo creamos, lo compartimos y lo mezclamos con nuestra vida diaria.
+
+Snapchat me parece interesante porque convierte lo cotidiano en algo creativo y expresivo. Los filtros, la música o incluso la IA hacen que cada snap sea distinto. Me gusta esa idea de contenido efímero, porque muchas veces se siente más auténtico y menos preparado.
+
+Por otro lado, Pokémon GO no fue solo un juego, fue una experiencia colectiva. Me marcó ver cómo la gente salía a la calle, interactuaba con el entorno y con otros jugadores. Demostró que el móvil puede ser algo más que una pantalla: puede conectar el mundo digital con el físico.
+
+En conjunto, estas apps reflejan lo que dice Manovich sobre el software como el “motor de los medios”. No solo los distribuye, también los transforma y nos da nuevas formas de experimentar lo cultural.
+
+
+
+### Referencias y Bibliografía
+
+- Adell Español, F. (2024). *Fundamentos y evolución de la multimedia*. PID_00297588. Universitat Oberta de Catalunya.  
+- Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.  
+- ProfesorUOC. (2016, 15 de septiembre). *El fenómeno Pokémon GO, la realidad aumentada y el futuro de los móviles*. Blog de Informática UOC. Recuperado el 14 de mayo de 2025, de https://blogs.uoc.edu/informatica/es/el-fenomeno-pokemon-go-la-realidad-aumentada-y-el-futuro-de-los-moviles/  
+- Niantic. (s. f.). *Catching Pokémon in AR mode*. Niantic Help Center. Recuperado el 14 de mayo de 2025, de https://niantic.helpshift.com/hc/es/6-pokemon-go/faq/28-catching-pokemon-in-ar-mode-1712012768/?l=es  
+- PantallasAmigas. (s. f.). *My AI, el chatbot de Snapchat: problemas y soluciones*. Recuperado el 14 de mayo de 2025, de https://www.pantallasamigas.net/my-ai-chatbot-inteligencia-artificial-snapchat-problemas-soluciones/  
+- Digital Trends. (2024, 11 de abril). *Snapchat generative AI video lenses feature release*. Recuperado el 14 de mayo de 2025, de https://www.digitaltrends.com/mobile/snapchat-generative-ai-video-lenses-feature-release/  
+
+### Enlaces de imágenes utilizadas
+
+- https://www.digitaltrends.com/wp-content/uploads/2025/03/Snapchat-video-lens.jpeg?fit=1800%2C1200&p=1  
+- https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-1.jpg  
+- https://p16-capcut-cms-sg.ibyteimg.com/tos-alisg-i-6rr7idwo9f-sg/1730364097984.image~tplv-6rr7idwo9f-image.image  
+- https://img.youtube.com/vi/2sj2iQyBTQs/0.jpg  
+- https://i.cbc.ca/1.3674612.1468295113!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pokemon-go-gameplay.jpg
+
+
 
