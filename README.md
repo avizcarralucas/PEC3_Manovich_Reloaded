@@ -142,4 +142,4 @@ En conjunto, estas apps reflejan lo que dice Manovich sobre el software como el 
 - https://i.cbc.ca/1.3674612.1468295113!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pokemon-go-gameplay.jpg
 
 
-
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
