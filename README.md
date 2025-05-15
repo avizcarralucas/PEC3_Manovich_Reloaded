@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación!
+# PEC3: Redescubriendo la hibridación digital con las gafas de Manovich: los casos de Snapchat y Pokémon GO!
 
 Este es un trabajo realizado para la **Universitat Oberta de Catalunya (UOC)**, dentro de la asignatura **Cultura Digital**.
 
