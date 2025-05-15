@@ -16,29 +16,54 @@ Este trabajo tiene como objetivo analizar dos ejemplos actuales de hibridación 
 -   **Snapchat**: una red social que fusiona la fotografía, los filtros de realidad aumentada y la geolocalización, creando una experiencia interactiva en la que los usuarios pueden ver en tiempo real lo que están haciendo sus amigos.
     
 -   **Pokémon GO**: un juego de realidad aumentada que combina lo digital con lo físico, permitiendo a los jugadores interactuar con un mundo virtual mientras exploran su entorno real.
-    
-Ambos ejemplos demuestran cómo el software ha transformado nuestra forma de interactuar, compartir y experimentar el mundo que nos rodea, creando nuevas formas de participación que antes no eran posibles.
+  
+Ambos ejemplos demuestran cómo el software ha transformado nuestra forma de interactuar, compartir y experimentar el mundo, creando nuevas formas de participación que antes no eran posibles.
 
 ---
-### Hibridación en Snapchat
 
-Snapchat es una red social muy popular, sobre todo entre jóvenes, que ha sabido combinar distintas tecnologías en una sola aplicación para ofrecer una forma de comunicarse diferente. Si la analizamos con “las gafas de Manovich”, como propone en *El software toma el mando*, vemos que Snapchat no solo mezcla medios, sino que los **fusiona para crear algo nuevo**. Eso es lo que él llama **hibridación**, un proceso que transforma los medios originales al unirlos en un entorno digital regido por el software.
+# Hibridación en Snapchat
 
-Un claro ejemplo son los **filtros de realidad aumentada** (las *Lenses*), que permiten modificar lo que capta la cámara en tiempo real. Algunos se aplican al rostro y otros al espacio que nos rodea (*World Lenses*), creando una interacción entre lo físico y lo digital. Esta combinación no sería posible sin el software que gestiona múltiples elementos visuales y sensores. Tal como se explica en el artículo de Inmersys ([“Snapchat, punta de lanza en realidad aumentada”, 2021](https://blog.inmersys.com/snapchat-punta-de-lanza-en-realidad-aumentada)) y se muestra en su vídeo oficial ([YouTube, Snap Inc.](https://youtu.be/K6x44v8prFA)), Snapchat no solo usa RA, sino que **lidera su desarrollo** al permitir experiencias más fluidas, personalizables y compartibles. Según Manovich, esto encaja con la idea de que el software actúa como una especie de “metamedio” que reorganiza las funciones de los medios anteriores para dar lugar a nuevas formas de comunicación.
+Snapchat es una red social popular entre los jóvenes que, si la analizamos con “las gafas de Manovich”, como propone en *El software toma el mando*, no simplemente mezcla medios, sino que los **hibrida**. A diferencia de la multimedia, que combina formatos, o la remediación, que adapta un medio para parecerse a otro, Snapchat transforma profundamente esos medios al integrarlos mediante software, generando nuevas formas de comunicación.
 
-![Lenses en Snapchat](https://businesshelp.snapchat.com/servlet/rtaImage?eid=ka0Uf0000000yk9&feoid=00N0y000004u9iN&refid=0EMUf000001QMYz)
+## De lo efímero a lo interactivo
 
-Otra función importante es **Snap Map**, que permite ver la ubicación de amigos en tiempo real y explorar contenidos según la localización. Aquí se combinan imágenes, mapas interactivos y redes sociales, lo que representa una interfaz híbrida donde varias lógicas se superponen: lo narrativo, lo espacial y lo social. Para Manovich, este tipo de combinaciones es propio del software actual, que permite fusionar lógicas distintas dentro de una misma experiencia coherente.
+Snapchat evolucionó desde enviar fotos o vídeos efímeros hacia integrar filtros AR, geolocalización e IA, como los lentes con efectos visuales generados en tiempo real. No se trata solo de evolución, sino de **remezcla de medios**. Un ejemplo es el lanzamiento de lentes de video con IA, que aplican efectos visuales generados por inteligencia artificial en tiempo real.
 
-![Snap Map](https://applesencia.com/files/2017/06/Snapchat-lanza-funcion-Snap-Maps-para-compartir-ubicacin.jpg)
+![Snapchat Video Lens](https://www.digitaltrends.com/wp-content/uploads/2025/03/Snapchat-video-lens.jpeg?fit=1800%2C1200&p=1)
 
-Además, Snapchat ha incorporado **My AI**, un chatbot con inteligencia artificial que funciona dentro del chat. Esta IA permite a los usuarios hacer preguntas, pedir consejos o simplemente conversar. Su integración representa otro nivel de hibridación, donde la **interacción automatizada** convive con la creatividad audiovisual y la comunicación social. Es un paso más hacia esa “nueva gestalt de medios” de la que habla Manovich.
+## Fusión de medios y tecnologías
 
-![My AI en Snapchat](https://blog.inmersys.com/hs-fs/hubfs/Snapchat%20apuesta%20por%20la%20inteligencia%20artificial%20con%20el%20lanzamiento%20de%20su%20chatbot%20AI.png?width=1200&height=628&name=Snapchat%20apuesta%20por%20la%20inteligencia%20artificial%20con%20el%20lanzamiento%20de%20su%20chatbot%20AI.png)
+Según el capítulo 3 de Manovich, Snapchat muestra cómo los medios se **hibridan** gracias al software:
 
-Snapchat, al combinar imagen, texto, geolocalización, RA e IA en una sola app, es un buen ejemplo de cómo el software transforma y une distintos medios para crear formas culturales nuevas, interactivas y propias de la era digital.
+- **Foto, vídeo, texto y música**: Se combinan en cada Snap junto con emojis.
+- **Filtros AR**: Mezclan lo que capta la cámara con efectos digitales en tiempo real.
+- **Geolocalización**: Snap Map integra geolocalización para mostrar la ubicación de amigos y contenidos según el lugar.
+- **IA conversacional (My AI)**: Un chatbot que simula conversaciones humanas dentro de la app. Puede responder preguntas, hacer recomendaciones o simplemente interactuar como un amigo más, combinando lenguaje natural y automatización.
 
----
+![Snapchat My AI](https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-1.jpg)
+
+## Estrategias de hibridación
+
+Manovich describe formas en las que los medios se pueden hibridar, y muchas de ellas están presentes en Snapchat:  
+- **Superposición visual/funcional**: Un Snap puede contener filtros, música, emojis y encuestas al mismo tiempo.  
+- **Simulación de otros medios**: Algunos Snaps imitan formatos como videoclips, postales o stickers animados.  
+- **Interfaces híbridas**: La app combina tipos de interacción, como tocar la pantalla, usar gestos faciales o comandos de voz.  
+- **Medios generados por software en tiempo real**: Los filtros reaccionan y se adaptan al rostro del usuario al instante.  
+- **Fusión con datos del entorno**: Snapchat usa información como la ubicación, la hora o la actividad para personalizar los contenidos que muestra.
+
+Además, surgen formas de representación híbrida, la cámara no solo captura imágenes, sino que las **transforma** añadiendo gráficos digitales en tiempo real. También se incorporan interacciones basadas en gestos, como abrir la boca o levantar las cejas, que activan efectos especiales dentro de la app.
+
+![Interacciones gestuales en Snapchat](https://p16-capcut-cms-sg.ibyteimg.com/tos-alisg-i-6rr7idwo9f-sg/1730364097984.image~tplv-6rr7idwo9f-image.image)
+
+
+## Estética y tecnología en Snapchat
+
+Snapchat tiene un estilo muy característico. Las imágenes no solo se muestran, sino que se transforman con muchos elementos digitales como emojis, textos, música y animaciones que hacen que todo sea más llamativo y dinámico. Además, los contenidos desaparecen después de un tiempo, lo que le da un toque de **espontaneidad y autenticidad**, como si fueran momentos únicos que no se pueden repetir. Todo esto se logra gracias a **algoritmos y filtros creados con inteligencia artificial**.
+
+En cuanto a la tecnología, Snapchat utiliza varias **técnicas específicas e independientes del medio**. Por ejemplo, el **reconocimiento facial en tiempo real** permite aplicar filtros al instante; la **inteligencia artificial** está presente en el chatbot **My AI**, que conversa de forma natural con los usuarios. También aprovecha datos como la **ubicación y el movimiento** para personalizar la experiencia. Todo esto se realiza mediante una **edición no destructiva en vivo**, aplicando efectos sin alterar el contenido original.
+
+Así, Snapchat no solo mezcla diferentes medios, sino que los transforma completamente gracias al software, ofreciendo nuevas formas de comunicación y una estética única.
+
 
 ### Bibliografía y fuentes
 
@@ -54,3 +79,4 @@ Snapchat, al combinar imagen, texto, geolocalización, RA e IA en una sola app, 
 - Applesencia. (2017). [Snap Map](https://applesencia.com/files/2017/06/Snapchat-lanza-funcion-Snap-Maps-para-compartir-ubicacin.jpg).
 - Shatov, A. (2023). [Snapchat interface](https://www.childnet.com/wp-content/uploads/2023/05/alexander-shatov-fRjjnN_8njo-unsplash-1024x768.jpg).
 - Inmersys. (s.f.). [Imagen del chatbot con IA](https://blog.inmersys.com/hs-fs/hubfs/Snapchat%20apuesta%20por%20la%20inteligencia%20artificial%20con%20el%20lanzamiento%20de%20su%20chatbot%20AI.png?width=1200&height=628&name=Snapchat%20apuesta%20por%20la%20inteligencia%20artificial%20con%20el%20lanzamiento%20de%20su%20chatbot%20AI.png).
+
