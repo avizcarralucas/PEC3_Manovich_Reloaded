@@ -128,10 +128,10 @@ En conjunto, estas apps reflejan lo que dice Manovich sobre el software como el 
 
 - Adell Español, F. (2024). *Fundamentos y evolución de la multimedia*. PID_00297588. Universitat Oberta de Catalunya.  
 - Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.  
-- ProfesorUOC. (2016, 15 de septiembre). *El fenómeno Pokémon GO, la realidad aumentada y el futuro de los móviles*. Blog de Informática UOC. Recuperado el 14 de mayo de 2025, de https://blogs.uoc.edu/informatica/es/el-fenomeno-pokemon-go-la-realidad-aumentada-y-el-futuro-de-los-moviles/  
-- Niantic. (s. f.). *Catching Pokémon in AR mode*. Niantic Help Center. Recuperado el 14 de mayo de 2025, de https://niantic.helpshift.com/hc/es/6-pokemon-go/faq/28-catching-pokemon-in-ar-mode-1712012768/?l=es  
-- PantallasAmigas. (s. f.). *My AI, el chatbot de Snapchat: problemas y soluciones*. Recuperado el 14 de mayo de 2025, de https://www.pantallasamigas.net/my-ai-chatbot-inteligencia-artificial-snapchat-problemas-soluciones/  
-- Digital Trends. (2024, 11 de abril). *Snapchat generative AI video lenses feature release*. Recuperado el 14 de mayo de 2025, de https://www.digitaltrends.com/mobile/snapchat-generative-ai-video-lenses-feature-release/  
+- ProfesorUOC. (2016, 15 de septiembre). *El fenómeno Pokémon GO, la realidad aumentada y el futuro de los móviles*. Blog de Informática UOC.
+- Niantic. (s. f.). *Catching Pokémon in AR mode*. Niantic Help Center. 
+- PantallasAmigas. (s. f.). *My AI, el chatbot de Snapchat: problemas y soluciones*. 
+- Digital Trends. (2024, 11 de abril). *Snapchat generative AI video lenses feature release*. 
 
 ### Enlaces de imágenes utilizadas
 
